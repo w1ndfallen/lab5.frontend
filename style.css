@@ -97,12 +97,6 @@ aside h2{
     margin: 7px;
 }
 
-.rightsidebar{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
 main{
     border:20px;
     min-height:500px;
